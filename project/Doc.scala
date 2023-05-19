@@ -21,7 +21,7 @@ object Doc {
 object Scaladoc extends AutoPlugin {
 
   object CliOptions {
-    val scaladocDiagramsEnabled = CliOption("akka.scaladoc.diagrams", true)
+    val scaladocDiagramsEnabled = CliOption("akka.scaladoc.diagrams", false)
     val scaladocAutoAPI = CliOption("akka.scaladoc.autoapi", true)
   }
 
