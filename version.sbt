@@ -1,2 +1,2 @@
-ThisBuild / version := "10.2.3"
+ThisBuild / version := "10.2.99"
 ThisBuild / isSnapshot := true
