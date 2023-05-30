@@ -12,7 +12,7 @@ import spray.boilerplate.BoilerplatePlugin
 import com.lightbend.paradox.apidoc.ApidocPlugin.autoImport.apidocRootPackage
 
 inThisBuild(Def.settings(
-  organization := "com.typesafe.akka",
+  organization := "com.stratio.akka",
   organizationName := "Lightbend",
   organizationHomepage := Some(url("https://www.lightbend.com")),
   homepage := Some(url("https://akka.io")),
